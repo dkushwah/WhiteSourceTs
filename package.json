@@ -26,7 +26,7 @@
     "@types/redux-mock-store": "0.0.13",
     "@types/uuid": "^3.4.5",
     "autoprefixer": "7.1.6",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-jest": "^22.1.0",
     "babel-loader": "^7.1.2",
     "babel-polyfill": "^6.26.0",
